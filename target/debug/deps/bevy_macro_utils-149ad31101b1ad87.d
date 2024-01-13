@@ -1,0 +1,10 @@
+C:\Users\sharm\OneDrive\Documents\rust-drive-ai-main\target\debug\deps\libbevy_macro_utils-149ad31101b1ad87.rmeta: C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\lib.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\attrs.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\shape.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\symbol.rs
+
+C:\Users\sharm\OneDrive\Documents\rust-drive-ai-main\target\debug\deps\libbevy_macro_utils-149ad31101b1ad87.rlib: C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\lib.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\attrs.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\shape.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\symbol.rs
+
+C:\Users\sharm\OneDrive\Documents\rust-drive-ai-main\target\debug\deps\bevy_macro_utils-149ad31101b1ad87.d: C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\lib.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\attrs.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\shape.rs C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\symbol.rs
+
+C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\lib.rs:
+C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\attrs.rs:
+C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\shape.rs:
+C:\Users\sharm\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_macro_utils-0.10.1\src\symbol.rs:
