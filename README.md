@@ -1,7 +1,3 @@
-Here’s a sample README for the Rust-AI-Car_Driving project:
-
----
-
 # 🚗 Rust AI Car Driving
 
 Welcome to the **Rust AI Car Driving** project! This repository showcases a simple simulation of an AI-controlled car, built using the Rust programming language. The project focuses on demonstrating basic AI concepts such as pathfinding, decision-making, and obstacle avoidance in a simulated environment.
@@ -43,5 +39,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
-
-Feel free to adjust this template as needed!
